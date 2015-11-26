@@ -8,7 +8,7 @@ Copy the easyDualList.js or easyDualList.min.js file to a directory in your proj
 Current plugin is conformed with:
 
 * IE9+
-* Firefox (latest) 
+* Firef (latest) 
 * Chrome (latest)
 
 Other browser should be work when they are compatible with JQuery. 
